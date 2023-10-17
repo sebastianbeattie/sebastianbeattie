@@ -32,4 +32,8 @@
   </a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sebastianbeattie&label=Visitors&color=ff9100&style=flat" alt="Page Views" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianbeattie&show_icons=true&locale=en&theme=radical" alt="sebastianbeattie" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sebastianbeattie&label=Visitors&color=ff9100&style=flat" alt="Page Views" />
+</p>
